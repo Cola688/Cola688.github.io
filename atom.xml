@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Cola688.github.io</id>
+    <title>Cola</title>
+    <updated>2023-07-07T06:57:50.537Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Cola688.github.io"/>
+    <link rel="self" href="https://Cola688.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Cola688.github.io/images/avatar.png</logo>
+    <icon>https://Cola688.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Cola</rights>
+</feed>
